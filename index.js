@@ -25,7 +25,7 @@ process.stdin.on('data', data => {
 
 process.on('exit', () => {
   console.log(`
-  Banaca Raven!
+  Bacana Raven!
   
   O que você aprendeu hoje foi:
   ${answers[0]}
